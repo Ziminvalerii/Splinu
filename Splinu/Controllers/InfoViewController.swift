@@ -10,7 +10,6 @@ class InfoViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        makeEventsSandable()
 //        FruitsData.shared.apples = 100
 //        Coins.shared.coins = 30000
 //        Training.shared.training = 49

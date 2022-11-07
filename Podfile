@@ -5,12 +5,8 @@ target 'Splinu' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for JuiceLivelihood
-pod ‘Firebase’
-pod ‘Firebase/Analytics’
-pod ‘Firebase/Database’
-pod ‘Firebase/Messaging’
+  # Pods for Splinu
+
 pod 'Google-Mobile-Ads-SDK'
-pod 'AppsFlyerFramework'
-pod 'FBSDKCoreKit'
+
 end
